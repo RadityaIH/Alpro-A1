@@ -1,7 +1,7 @@
 /*Nama File : LuasBujursangkar.c */
 /*Deskripsi : Membuat algoritma untuk menghitung luas bujursangkar*/
 /*Pembuat : Raditya Ilham Hastoro - 24060121140125*/
-/*Tanggal : 1 Maret 2022*/
+/*Tanggal : Selasa, 1 Maret 2022 12:00 WIB*/
 #include <stdio.h>
 #include <stdlib.h>
 
